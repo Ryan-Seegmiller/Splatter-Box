@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fb74e8fc3c380a41a95138ad631c068, type: 3}
+  m_Name: Diastaters
+  m_EditorClassIdentifier: 
+  clips:
+  - name: Disatser Incoming
+    index: 0
+    clip: {fileID: 8300000, guid: b7ded440d20d8f2469737bbb93b3704d, type: 3}
+    audioClipType: 3
+  - name: Disatser Incoming 2
+    index: 0
+    clip: {fileID: 8300000, guid: 4dafc42230780bb44a0806f19c1e3c56, type: 3}
+    audioClipType: 2
+  - name: Disaster Incoming 3
+    index: 0
+    clip: {fileID: 8300000, guid: 6704fa3103de5484b964e8f1ef87aa53, type: 3}
+    audioClipType: 2
+  - name: Disaster Vote
+    index: 0
+    clip: {fileID: 8300000, guid: 51e7acafc7ed72c4fa0fcbe245726393, type: 3}
+    audioClipType: 2
+  - name: Disatser Vote 2
+    index: 0
+    clip: {fileID: 8300000, guid: 3063c7c0806fc1c42a26f0985ff72543, type: 3}
+    audioClipType: 2
+  - name: Disaster Vote Locked In
+    index: 0
+    clip: {fileID: 8300000, guid: 46165f4311a848e408014c9864b9faf3, type: 3}
+    audioClipType: 2
+  - name: Disatser vote locked in 2
+    index: 6
+    clip: {fileID: 8300000, guid: 8e74c8a4f45ca7a488949fb22a1767ae, type: 3}
+    audioClipType: 2

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13908cc98ae4829519334e6a4ae1edde, type: 3}
+  m_Name: Laser
+  m_EditorClassIdentifier: 
+  disasterPrefab: {fileID: 7595206553248800147, guid: 522145462123c5b44a0afead1a74dd1d, type: 3}
+  disasterName: Laser
+  disasterIcon: {fileID: 2800000, guid: 97ff0be0817c252d7a5499f6a5db430f, type: 3}

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13908cc98ae4829519334e6a4ae1edde, type: 3}
+  m_Name: Hand
+  m_EditorClassIdentifier: 
+  disasterPrefab: {fileID: 5017433968743137369, guid: d034bc526e8a3ba4c998852f72cc27af, type: 3}
+  disasterName: Hand
+  disasterIcon: {fileID: 2800000, guid: a003afc9774ae822dbfb546a2b56797e, type: 3}
